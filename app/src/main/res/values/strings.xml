@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VogellaDatabase</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnAdd">Add New</string>
+    <string name="txtViewRate">Rating:</string>
+    <string name="txtViewComment">Comment:</string>
+</resources>
